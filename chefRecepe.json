@@ -1,0 +1,176 @@
+[
+    {
+        "chefId": "1",
+        "chefPicture": "https://www.istockphoto.com/photo/successful-asian-chef-standing-in-the-kitchen-gm1175212531-327164587?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fchinese-chef&utm_term=chinese%20chef%3A%3A%3A",
+        "chefName": "Chef Zhang",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "description": "Chef Zhang is a master of Sichuan cuisine, known for his spicy and flavorful dishes.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chefId": "2",
+        "chefPicture": "https://media.istockphoto.com/id/1167794769/photo/an-asian-male-chefgray-background.jpg?b=1&s=170667a&w=0&k=20&c=v3h_uEQTD97RLF2AdXhcfOKmf01zr_P-10Y377474c4=",
+        "chefName": "Chef huang",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 50,
+        "likes": 500,
+        "description": "Chef huang is a master Chinese chef with 15 years of experience in the culinary arts. He has created over 50 delicious recipes that showcase the rich flavors and aromas of Chinese cuisine. His attention to detail and passion for cooking make him a beloved figure in the culinary world.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chefId": "3",
+        "chefPicture": "https://media.istockphoto.com/id/1203711686/photo/chinese-man-cooking.jpg?b=1&s=170667a&w=0&k=20&c=-R5R1TUC77nFGX2j1r-k5gHfh8ucz2UIIsrM2SFR7s0=",
+        "chefName": "Wang Mei",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 75,
+        "likes": 800,
+        "description":"Wang Mei is a renowned Chinese chef with over 20 years of experience crafting delectable dishes. She has developed over 75 recipes that highlight the unique textures and spices of Chinese cuisine. Wang Mei's artistic approach to cooking has earned her numerous awards and accolades throughout her career.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chefId": "4",
+        "chefPicture": "https://media.istockphoto.com/id/1191074002/photo/an-asian-chinese-chief-is-cooking-in-the-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=PGWRQmKAD_hWcTjwx0SNhs_RP1g0aFVCW2YXiBamiEM=",
+        "chefName": "Chen Wei",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 40,
+        "likes": 900,
+        "description":"Chen Wei is a rising star in the Chinese culinary world, with 10 years of experience creating mouthwatering dishes. She has developed 40 recipes that showcase her innovative approach to traditional Chinese cuisine. Chen Wei's creativity and passion for cooking have earned her a loyal following among foodies and critics alike.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chefId": "5",
+        "chefPicture": "https://media.istockphoto.com/id/519096269/photo/chinese-man-cooking-in-asian-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=D6v6iEWyLoTiU7PMVDSSkz6rkVJofbs2d72CdRAMjjw=",
+        "chefName": "Liu Ying",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 700,
+        "description":"Liu Ying is a talented Chinese chef with 12 years of experience creating exquisite dishes. She has developed 45 recipes that showcase the rich flavors and textures of Chinese cuisine, and her attention to detail and presentation make her dishes a feast for the eyes as well as the palate. Liu Ying's passion for cooking and commitment to excellence have earned her a devoted following among food lovers worldwide.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chefId": "6",
+        "chefPicture": "https://media.istockphoto.com/id/1136673990/photo/master-chef-holding-chopsticks-with-flying-sushi.jpg?b=1&s=170667a&w=0&k=20&c=bIdbII1t_ULteuO5cISgnbeQvWvYWLL0oUJ0GItkIs4=",
+        "chefName": "Yang Jie",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": 60,
+        "likes": 770,
+        "description":"Yang Jie is an accomplished Chinese chef with 18 years of experience creating innovative and delicious dishes. She has developed 60 recipes that showcase the unique flavors and techniques of Chinese cuisine, and her creativity and imagination have earned her numerous awards and accolades. Yang Jie's passion for cooking and her dedication to perfecting her craft make her a culinary force to be reckoned with.",
+        "recipes": [
+          {
+            "recipeName": "Kung Pao Chicken",
+            "ingredients": ["chicken breast", "dried chili pepper", "roasted peanuts", "scallions", "garlic"],
+            "cookingMethod": "1. Cut the chicken into small cubes and marinate with soy sauce, rice wine, and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until golden brown.\n3. Add dried chili pepper and garlic, then stir-fry for a few seconds.\n4. Add roasted peanuts and scallions, then stir-fry for another minute.\n5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Hot and Sour Soup",
+            "ingredients": ["bamboo shoots", "tofu", "wood ear mushrooms", "black fungus", "white pepper"],
+            "cookingMethod": "1. Soak wood ear mushrooms and black fungus in hot water for 10 minutes.\n2. Cut bamboo shoots and tofu into small pieces.\n3. Bring chicken broth to a boil and add bamboo shoots, wood ear mushrooms, and black fungus.\n4. Season with soy sauce, rice vinegar, and white pepper.\n5. Add beaten eggs and stir gently.\n6. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Ma Po Tofu",
+            "ingredients": ["soft tofu", "ground pork", "Sichuan peppercorns", "doubanjiang", "green onions"],
+            "cookingMethod": "1. Cut tofu into small cubes and blanch in boiling water.\n2. Heat oil in a wok and stir-fry ground pork until cooked.\n3. Add Sichuan peppercorns and doubanjiang, then stir-fry for a few seconds.\n4. Add tofu and stir gently.\n5. Season with soy sauce, rice wine, and sugar.\n6. Garnish with chopped green onions.\n7. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+      }
+]
